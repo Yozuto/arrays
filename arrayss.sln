@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrayss", "arrayss\arrayss.csproj", "{FD28C16F-B681-4570-901B-B0AEFAE38CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD28C16F-B681-4570-901B-B0AEFAE38CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD28C16F-B681-4570-901B-B0AEFAE38CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD28C16F-B681-4570-901B-B0AEFAE38CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD28C16F-B681-4570-901B-B0AEFAE38CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01687AEB-5307-41B7-B12F-037685C1B1B1}
+	EndGlobalSection
+EndGlobal
